@@ -50,9 +50,9 @@ Mas o ponto principal é a capacidade de interatividade que pode ser oferecido e
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Cração de imagem](https://rendernet.ai/)
+- [Podcast](https://app.storylab.ai/)
+
 
 ## Links Interessantes
 
