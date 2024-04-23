@@ -19,24 +19,34 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+<!-- ```markdown -->
+# Interagindo e tirando dúvidas com a Brenda: Uma IA Generativa criada para passar dicas de saúde ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Nos últimos anos, temos observado um crescimento de clínicas médicas voltadas ao público mais carente. Com essa demanda, surge também a necessidade de termos uma melhor aproximação do cliente através de blogs e das demais redes sociais.
+Em relação a blogs, não é toda a faixa etária que tem o hábito de navegar na internet, mas, em compensação, temos um crescimento muito alto do público mais idoso e mais jovens por usar redes sociais de fáceis acessos presentes nos smartphones.
+Pensando nessas mídias sociais, que tal usarmos uma IA Generativa para criarmos um personagem na qual pudesse passar as mesmas orientações que estão presentes em textos do blog de uma forma mais natural?
+Nesse sentido, criei a Brenda, uma profissional da saúde que é capaz de passar dicas rápidas e até palestrar sobre diversos assuntos relacionados a área da saúde.
+
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizada a plataforma da Elai.io
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A criação é bem intuitiva. Você só precisa escolher o modelo de personagem na qual deseja, a lingua e e voz que melhor represente a personagem.
+Além disso, você pode optar por colocar um fundo para facilitar na possível edição do vídeo, caso queira adicionar a personagem com algum fundo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como resultado, a personagem conseguiu corresponder bem ao propósito. A fala, as expressões foram bem reais.
+Para visualizar o resultado, você pode [conferir clicando aqui no link](https://www.youtube.com/watch?v=V8FV8PtQOvI)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Para uma pessoa mais atenta com tecnologia e sabendo das IA e das capacidades, provavelmente será possível discernir que é fake. Mas para um público
+mais sem conhecimento, não irá notar ou simplesmente ficará com uma dúvida.
+Mas o ponto principal é a capacidade de interatividade que pode ser oferecido em um contato  com o cliente.
+<!-- ``` -->
 
 ### Exemplos e Insigths
 
